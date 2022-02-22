@@ -1,3 +1,4 @@
+![Banner](https://github.com/AmithaFernando83/AmithaFernando83/blob/main/amitha%20fernando.png)
 ### Hi there 👋, I'm Amitha from Singapore!
 #### *Project Manager by day.... Data Analyst in-training by night*
 
