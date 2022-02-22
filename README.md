@@ -1,5 +1,7 @@
 ### Hi there 👋, I'm Amitha from Singapore!
 #### *Project Manager by day.... Data Analyst in-training by night*
+![*Project Manager by day.... Data Analyst in-training by night*](https://www.canva.com/design/DAE5FMpztMk/90YaQGf8TCm1A8FrAuWluA/view?utm_content=DAE5FMpztMk&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu)
+
 Although I am not a technical person, I learnt many new tools such as GitHub during my time in a top datacenter company. I'm currently on an exciting journey of learning Data Analysis to fuel my career change aspirations into Data Science. Stay tuned to this page as I add more about my achievements on this remarkable self-learning journey!
 
 Skills: MS Office / Google Suite / Confluence / JIRA / Coupa / Concur / Apttus / Tableau / Survey Monkey / Qualtrics / SPSS
