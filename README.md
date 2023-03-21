@@ -1,6 +1,6 @@
 ![Banner](https://github.com/AmithaFernando83/AmithaFernando83/blob/main/amitha%20fernando.png)
 ### Hi there 👋, I'm Amitha from Singapore!
-#### *Project Manager by day.... Data Analyst in-training by night*
+#### *Project Manager by day.... Vet tech in-training by night*
 
 Although I am not a technical person, I learnt many new tools such as GitHub during my time in a top datacenter company. I'm currently on an exciting journey of learning more about the changing landscape of technology and how to leverage on software to increase productivity and generate informative and functional dashboards.  Stay tuned to this page as I add more about my achievements on this remarkable self-learning journey!  In the meantime, do check out some of the projects I worked on.
 
